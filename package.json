@@ -1,16 +1,16 @@
 {
-"name": "allurebet",
-"theme": "allurebet",
-"version": "7.3.5",
-"description": "allurebet สมัครเว็บแทงบอลเว็บตรง ไม่มีขั้นต่ำ รับโบนัสเครดิตฟรี",
-"keywords": [
-"allurebet",
-"allurebet เครดิตฟรี",
-"allurebet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/allurebet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "allurebet",
+  "theme": "allurebet",
+  "version": "7.4.0",
+  "description": "allurebet สมัครเว็บแทงบอลเว็บตรง ไม่มีขั้นต่ำ รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "allurebet",
+    "allurebet เครดิตฟรี",
+    "allurebet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/allurebet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
